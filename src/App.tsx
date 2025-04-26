@@ -24,10 +24,10 @@ function App() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             {
-              title: 'cookin',
-              description: 'XD',
-              link: 'https://github.com/yourusername/ai-image-generator',
-              tags: ['html']
+              title: 'Incompleta',
+              description: ' a virtual museum where unfinished projects, ideas, and artworks are preserved, shared, and explored by creators around the world.',
+              link: 'https://incompleta.vercel.app/',
+              tags: ['Typescript', 'Tailwind CSS']
             },
             {
               title: 'will cook',
@@ -91,6 +91,14 @@ function App() {
             {
               name: 'Python',
               imageUrl: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'
+            },
+            {
+              name: 'NumPy',
+              imageUrl: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'
+            },
+            {
+              name: 'Scikit-learn',
+              imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'
             },
           ].map(({ name, imageUrl }) => (
             <div
