@@ -13,8 +13,7 @@ function App() {
         <p className="text-gray-500 mt-4 max-w-xl mx-auto">
         a learner with a strong passion for Frontend development, artificial intelligence, Python development and Machine
         Learning. I specialize in creating responsive and user-friendly front-end applications while integrating AI/ML models
-        to solve real-world challenges. I am constantly exploring new technologies to enhance my skills and contribute
-        effectively to the tech industry.
+        to solve real-world challenges. I constantly exploring new technologies to enhance my skills.
         </p>
       </header>
 
